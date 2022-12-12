@@ -1,2 +1,2 @@
 # GINES_TSP
-Algorithm Selection for Traveling Salesman Problem with Graph Neural Networks
+Revisit the Algorithm Selection Problem for TSP with Spatial Information Enhanced Graph Neural Networks
