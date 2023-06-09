@@ -1,2 +1,2 @@
-# GINES_TSP
-Revisit the Algorithm Selection Problem for TSP with Spatial Information Enhanced Graph Neural Networks
+# GINE-I_TSP
+Revisit the Algorithm Selection Problem for TSP with Geometrically Invariant Graph Neural Networks
